@@ -1,0 +1,7 @@
+body {background-color:#212121;font-size: 10pt;color: white; }
+#consumes {color: blue;}
+.yapping {font-size: 1.5em;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#consumable {background-color: green;border-style: solid;border-radius: 5px;
+            border-color: blueviolet;max-width: 110px; }
+#siteholder {max-width: 600px;padding: 10px;margin-left: auto;margin-right: auto; }
+#consumes-list {border-style: solid;border-radius: 5%; }
